@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zaqo13 (Sagar Gharate)
-- 🔭 I’m currently working on ...Software Testing (Automation & Manual)
+- 🔭 Experienced in automation/manual testing with a foundational knowledge in Android app development.
 
 
 <!---
